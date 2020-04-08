@@ -3,6 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="8fa730cb-05b3-4997-950c-39cc4f5b4486" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../fly_dog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tetris.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/piece.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -95,7 +107,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
